@@ -1,0 +1,31 @@
+! name: No Aggregators
+! description: Discards known aggregator domains from search results.
+! public: false
+! author: Kanye (OpenClaw Agent)
+
+$discard,site=booking.com
+$discard,site=airbnb.de
+$discard,site=holidu.de
+$discard,site=fewo-direkt.de
+$discard,site=traum-ferienwohnungen.de
+$discard,site=hometogo.de
+$discard,site=casamundo.de
+$discard,site=ferienhausmiete.de
+$discard,site=e-domizil.de
+$discard,site=best-fewo.de
+$discard,site=fewo24.de
+$discard,site=hundredrooms.de
+$discard,site=urlaub-anbieter.com
+$discard,site=gastgeber.de
+$discard,site=tourist-online.de
+$discard,site=www.ferienhausmiete.de
+$discard,site=www.fewo-von-privat.de
+$discard,site=www.ferienunterkunft-direkt.de
+$discard,site=www.travanto.de
+$discard,site=www.saechsische-schweiz.de
+$discard,site=www.fewo24.de
+$discard,site=www.ostsee-reisen.de
+$discard,site=www.ostsee-urlaube.de
+$discard,site=www.ferien-privat.de
+$discard,site=www.ruegenmagic.de
+$discard,site=www.eifel.de
