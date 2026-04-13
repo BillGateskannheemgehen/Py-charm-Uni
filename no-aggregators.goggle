@@ -1,7 +1,7 @@
 ! name: No Aggregators
 ! description: Discards known aggregator domains from search results.
-! public: false
-! author: Kanye (OpenClaw Agent)
+! public: true
+! author: Kanye
 
 $discard,site=booking.com
 $discard,site=airbnb.de
